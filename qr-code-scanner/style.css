@@ -8,6 +8,7 @@
 body {
     align-items: center;
     display: flex;
+    flex-direction: column;
     background: #f2f3f4;
     justify-content: center;
 }
@@ -62,4 +63,21 @@ body {
     text-align: center;
     align-self: flex-start;
     font-weight: 400;
+}
+
+footer {
+    font-family: 'Outfit', sans-serif;
+    align-self: center;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+footer a {
+    text-decoration: none;
+    color: hsl(212, 65%, 59%);
+    transition: all 5s;
+}
+
+footer a:hover {
+    font-size: 1.5em;
 }
