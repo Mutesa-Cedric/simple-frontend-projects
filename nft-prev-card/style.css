@@ -26,9 +26,11 @@ p {
 }
 
 .card-container {
+    margin-top: 5em;
     background: hsl(216, 50%, 16%);
     display: flex;
-    width: 60vw;
+    width: 30vw;
+    height: 80vh;
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -38,6 +40,6 @@ p {
 }
 
 .card-container #img {
-    width: 20em;
-    height: 20em;
+    width: 15em;
+    height: 15em;
 }
