@@ -1,5 +1,9 @@
-# front-end-mentor-challenges
-this is a repository which i use for frontend mentor challenges
+# simple-frontend-projects
+this is a repository which i use for frontend simple projects so
 
-visit https://www.frontendmentor.io/ for improving your frontend skills
+as to improve my web development knowledge.
+
+visit https://www.frontendmentor.io/ for improving your
+
+ frontend skills
 
